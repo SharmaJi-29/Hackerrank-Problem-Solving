@@ -21,9 +21,9 @@ HackerRank’s Problem Solving section is designed to enhance your algorithmic t
 
 ## Problem-Solving Approach
 **1. Understand the Problem :**
-	- Identify what is being asked.
-	- Note input constraints and expected output format.
-2.	Plan Your Solution:
+- Identify what is being asked.
+- Note input constraints and expected output format.
+**2. Plan Your Solution :**
 •	Think of the most efficient approach (time and space complexity).
 •	Break down the solution into logical steps.
 3.	Implement:
