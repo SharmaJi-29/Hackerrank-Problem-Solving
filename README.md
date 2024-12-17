@@ -24,17 +24,17 @@ HackerRank’s Problem Solving section is designed to enhance your algorithmic t
 - Identify what is being asked.
 - Note input constraints and expected output format.
 **2. Plan Your Solution :**
-•	Think of the most efficient approach (time and space complexity).
-•	Break down the solution into logical steps.
-3.	Implement:
-•	Write clean, modular, and well-documented code.
-•	Test your code with the sample input/output.
-4.	Optimize:
-•	Improve your code’s efficiency where possible.
-•	Handle edge cases effectively.
-5.	Submit:
-•	Run your code against all test cases.
-•	Debug if any test cases fail and resubmit.
+- Think of the most efficient approach (time and space complexity).
+- Break down the solution into logical steps.
+** 3. Implement :**
+- Write clean, modular, and well-documented code.
+- Test your code with the sample input/output.
+** 4. Optimize :**
+- Improve your code’s efficiency where possible.
+- Handle edge cases effectively.
+** 5. Submit :**
+- Run your code against all test cases.
+- Debug if any test cases fail and resubmit.
 
 ## Tips for Success
 •	Start Simple: Begin with easy problems to build confidence and understanding.
